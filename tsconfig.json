@@ -1,0 +1,1 @@
+{\n  \"compilerOptions\": {\n    \"target\": \"esnext\",\n    \"lib\": [\"esnext\", \"dom\"],\n    \"allowJs\": true,\n    \"skipLibCheck\": true,\n    \"strict\": true,\n    \"esModuleInterop\": true,\n    \"module\": \"commonjs\",\n    \"jsx\": \"react-native\"\n  },\n  \"include\": [\"src/**/*\"],\n  \"exclude\": [\"node_modules\"]\n}
